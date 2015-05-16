@@ -5,11 +5,11 @@
 include('includes/head.php');
 ?>
 <body>
-	<div id="wrapper">	
+	<div id="wrapper">
 <?php
 include('includes/header.php');
 include('includes/nav.php');
-if(isset($_REQUEST["pagina"])){						
+if(isset($_REQUEST["pagina"])){
 	if($_REQUEST["pagina"] != ""){
 		$url = "application/".$_REQUEST["pagina"].".php";
 		include($url);
@@ -18,11 +18,11 @@ if(isset($_REQUEST["pagina"])){
 		include ('application/salutam.php');
 	}
 }
-else{						
+else{
 	include ('application/salutam.php');
 }
-include('includes/footer.php');	
-?>		
+include('includes/footer.php');
+?>
 	</div>
 </body>
 </html>
