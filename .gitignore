@@ -37,7 +37,10 @@ ehthumbs.db
 Thumbs.db
 
 #gitignore
-/application/send.php
-/video/*
+application/send.php
+video
 .idea
 .codenvy
+application/succesmailing.txt
+application/errormailing.txt
+PHPMailer
