@@ -13,14 +13,14 @@
 				<div class="black-box">
 					<h2>Imnul Templier</h2>
 					<p><video width="140" height="105" controls>
-					  <source src="video/chant.mp4" type="video/mp4">							  
+					  <source src="video/chant.mp4" type="video/mp4">
 					  <object data="video/chant.mp4" width="140" height="100">
 						<embed src="video/chant.mp4" width="140" height="100">
 					  </object> 
 					</video></p>
-					<!--<p><iframe width="140" height="105" src="https://www.youtube.com/watch?v=_GWUW0W_xY4&output=embed" frameboard="0" allowfullscreen></iframe></p>
+					<!--<p><iframe width="140" height="105" src="https://www.youtube.com/watch?v=_GWUW0W_xY4&output=embed" frameboard="0" allowfullscreen></iframe></p>-->
 					<p>Daca doriti sa ascultati mai multe canturi templiere accesati...</p>
-					<p class="more">&gt; &gt; <a href="https://www.youtube.com/watch?v=_GWUW0W_xY4" target="_blank">Mai multe</a></p>-->
+					<p class="more">&gt; &gt; <a href="https://www.youtube.com/watch?v=_GWUW0W_xY4" target="_blank">Mai multe</a></p>
 				</div>
 				
 				<div class="black-box">
